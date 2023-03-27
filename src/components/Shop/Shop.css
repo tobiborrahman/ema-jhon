@@ -10,8 +10,10 @@
 }
 
 .order {
-	height: 90vh;
+	height: 100vh;
 	background: bisque;
+	position: sticky;
+	top: 0;
 }
 .order-title {
 	text-align: center;
