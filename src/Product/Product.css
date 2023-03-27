@@ -1,0 +1,43 @@
+.product-main {
+	width: 280px;
+	height: 485px;
+	border: 1px solid #95a0a7;
+	border-radius: 8px;
+	position: relative;
+}
+.single-product {
+	padding-top: 9px;
+	padding-left: 10px;
+}
+
+.single-product img {
+	width: 260px;
+	height: 260px;
+	border-radius: 8px;
+}
+.product-btn {
+	width: 100%;
+	background: #ffe0b3;
+	border-radius: 0px 0px 8px 8px;
+	border: 1px solid #95a0a7;
+	margin-bottom: 0;
+	position: absolute;
+	bottom: 0;
+}
+.title {
+	margin: 0;
+	padding: 0;
+}
+.title2 {
+	margin-top: 7px;
+}
+.manufacturer {
+	margin: 0;
+}
+.rating {
+	margin: 7px 0;
+}
+
+.title-details {
+	margin-bottom: 40px;
+}
