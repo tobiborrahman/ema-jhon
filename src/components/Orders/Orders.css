@@ -1,0 +1,19 @@
+.order-container {
+	display: grid;
+	grid-template-columns: 3fr 1fr;
+	/* margin-left: 100px; */
+}
+.summary-products {
+	grid-template-columns: 1fr;
+	grid-gap: 0;
+	align-items: center;
+	margin: 100px auto;
+}
+.orders {
+	height: 420px;
+	width: 300px;
+	border-radius: 8px;
+	margin-top: 100px;
+	margin-right: 100px;
+	background-color: bisque;
+}
