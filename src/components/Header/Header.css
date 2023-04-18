@@ -10,10 +10,14 @@
 
 nav.header a {
 	text-decoration: none;
-	margin-left: 30px;
+	margin-right: 30px;
 	color: #ffffff;
 }
 
 nav.header a:hover {
 	color: orange;
+}
+
+.text-white {
+	color: white;
 }
